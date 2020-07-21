@@ -1,0 +1,28 @@
+---
+title: 'Chapter Five: Measurements'
+author: "Dr. Simona Simona"
+date: "4/12/2020"
+output: pdf_document
+header-includes:
+   - \usepackage{setspace}
+   - \singlespacing
+fontsize: 11pt
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This chapter will address the following topics:
+
+- Reading in data 
+- Recoding data
+
+
+
+## Reading in the data
+
+As we can imagine, for us to be analyse any type of data, we first have to bring it into R. When you are a new RuSER, this process may not be that straightfoward. There are different ways of reading in data in the R environment and this dependends on the file format the original data is saved in. Data can be saved in SPSS, Stata, CSV and excel among others, can be 
+
+
+
