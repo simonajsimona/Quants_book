@@ -1,0 +1,14 @@
+---
+title: 'Chapter Fourteen: Logistics Regression'
+author: "Simona Simona"
+date: "4/12/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## The problem with linear regression 
+
+The social sciences usually do not have plenty of continuous variables to work with. Thats why I am introducing logistic regression which is usually not part of the standard text books for data analysis at the undergraduate or postgraduate introduction level. Logistic regression involves the inclusion of binary outcome data into our analysis which would quite realistic in the social science research 
