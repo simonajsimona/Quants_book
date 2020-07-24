@@ -1,0 +1,21 @@
+---
+title: 'Chapter Fifteen: Tabular Representation of Data'
+author: "Simona Simona"
+date: "4/12/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tables
+
+Tables are very popular way of representing results in quantitative social science methods. Tbales are easier to read and they can condense large chunks of information in few rows and columns. In this chapter I will show how to represent data from univariate to multiple analyses. We need to bare in mind that the tables that are given in statistics packages like excel and spss and not the same in R. R out puts dont come in table formats, you have got to learn how to represnt your results in order to aid their publications. There are packages that help you do that in R and I will discuss them here but most imporatnatly I will implement them in the R markdown chapter.
+
+## Frequency distribution
+## Contigency tables
+## Grouped frequancy tables for analysis
+## Regression analysis tables
+## Showing significance results
+## Conclusions

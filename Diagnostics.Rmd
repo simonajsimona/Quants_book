@@ -1,0 +1,14 @@
+---
+title: 'Chapter Thirteen: Linear Regression Diagnostics'
+author: "Simona Simona"
+date: "4/12/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Model Evaluation
+
+Our analysis is not perfect. It is confounded by a number of problem some of this problem may cause our analysis null and void. We need to take time to scrutinise our analysis to make sure that it is validy and that the results will be reliable
